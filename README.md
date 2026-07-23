@@ -31,3 +31,8 @@ Identify the clustering approach that produces the most meaningful playlists.
 # 👥 Team Project
 
 This project was completed collaboratively as part of the Data Science Bootcamp at WBS Coding School.
+| Name | GitHub |
+|---|---|
+| Shyma Shameer | [@ShymaShameer](https://github.com/ShymaShameer) |
+| Martin | [@Martin](https://github.com/martinabt-dev) |
+| Jagan Prabhu | [@JaganPrabhu](https://github.com/prabhu-kumaran) |
